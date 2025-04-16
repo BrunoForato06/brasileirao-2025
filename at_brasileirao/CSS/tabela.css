@@ -1,0 +1,46 @@
+header{
+    padding: 10px;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    width: auto;
+    height:60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    padding: 0px;
+    list-style: none;
+}
+ul li{
+    padding: 2px;
+    margin: 15px;
+    float: left;
+}
+ul a{
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+    padding: 58px;
+}
+ul a:hover{
+    background-color: white;
+    color: black;
+}
+div a:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+table{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th, td{
+    padding: 8px 12px;
+}
